@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Wendell!
+<a href="https://linkedin.com/in/wendellpierre"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**pierrebw/pierrebw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things I've learned to help provide more security. 
+
+## Objective
+
+My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+
+
+## Projects
+
+
+| Name of the Lab                                         | Project Link        |
+|-----------------------------------------------|----------------------------|
+| Window Event Logs into Splunk         | <a href="https://google.com">Windows Event Logs </a>|
+| Managing MFA in OKTA | <a href="https://google.com">MFA in Okta </a>|
+| Managing an App to Specific Group in Okta        | <a href="https://google.com"> Managing an App LAB</a>|
+
+
+
+
+
