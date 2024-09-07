@@ -17,7 +17,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 |-----------------------------------------------|----------------------------|
 | Window Event Logs into Splunk         | <a href="https://google.com"> Events Lab </a>|
 | Managing MFA in OKTA | <a href="https://google.com">MFA Lab</a>|
-| Managing an App to Specific Group in Okta        | <a href="https://google.com"> Managing an App Lab</a>|
+| Managing an App to Specific Group in Okta        | <a href="https://github.com/pierrebw/eventslog"> Managing an App Lab</a>|
 
 
 
