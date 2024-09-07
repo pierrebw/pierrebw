@@ -10,10 +10,10 @@ Things I've learned to help provide more security.
 My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 
-<center>Projects
+## Projects
 
 
-| Name of the Lab                                        
+| Name of the Projects                                        
 |---------------------------------------------------------------------------|
 | <a href="https://github.com/pierrebw/eventslog"> Window Event Logs into Splunk</a>|
 | <a href="https://google.com">Managing MFA in OKTA</a>|
