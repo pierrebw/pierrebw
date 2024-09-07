@@ -16,7 +16,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Name of the Projects                                        
 |---------------------------------------------------------------------------|
 | <a href="https://github.com/pierrebw/eventslog"> Window Event Logs into Splunk</a>|
-| <a href="https://google.com">Managing MFA in OKTA</a>|
+| <a href="https://github.com/pierrebw/mfaokta">Managing MFA in OKTA</a>|
 | <a href=""> Managing an App to Specific Group in Okta</a>|
 </center>
 
