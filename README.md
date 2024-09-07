@@ -10,15 +10,15 @@ Things I've learned to help provide more security.
 My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 
-## Projects
+<center>Projects
 
 
-| Name of the Lab                                         | Project Link        |
-|-----------------------------------------------|----------------------------|
-| Window Event Logs into Splunk         | <a href="https://github.com/pierrebw/eventslog"> Events Lab </a>|
-| Managing MFA in OKTA | <a href="https://google.com">MFA Lab</a>|
-| Managing an App to Specific Group in Okta        | <a href=""> Managing an App Lab</a>|
-
+| Name of the Lab                                        
+|---------------------------------------------------------------------------|
+| <a href="https://github.com/pierrebw/eventslog"> Window Event Logs into Splunk</a>|
+| <a href="https://google.com">Managing MFA in OKTA</a>|
+| <a href=""> Managing an App to Specific Group in Okta</a>|
+</center>
 
 
 
