@@ -15,6 +15,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Name of the Projects                                        
 |---------------------------------------------------------------------------|
+| <a href="https://github.com/pierrebw/honeypotlab"> Honeypot Lab</a>|
 | <a href="https://github.com/pierrebw/eventslog"> Window Event Logs into Splunk</a>|
 | <a href="https://github.com/pierrebw/mfaokta">Managing MFA in OKTA</a>|
 | <a href="https://github.com/pierrebw/groupokta"> Managing an App to Specific Group in Okta</a>|
